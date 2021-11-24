@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Science",
+      "Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9d8e2582-f6d1-a0e1-261a-553fa8899d6b",
+      "92e88cb0-152b-c137-76de-599455dfd243",
+      "fbc0e219-bf98-ad34-1799-8ec0484b2200"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Physics of COVID-19 Transmission",
+  "course_description": "This resource is a collection of videos taught using a LightBoard, a specialized glass that creates a transparent white board. It teaches scientific principles to quantitatively assess the risk of airborne transmission of COVID-19 in indoor spaces based on factors such as the occupancy, time, room geometry, mask use, ventilation, air filtration, humidity, respiratory activities, etc., as well as how these factors interact. This collection is suitable for learners with some undergraduate-level training in STEM, although some videos may also be accessible to the general public. Graduate students and professionals can watch optional videos with more challenging mathematics. A full MITx course with problems and bonus content was previously available for free on [edX](http://edx.org), but that course is no longer accepting new enrollments. We will update this page if/when the MITx course is offered again.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.10-S95",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
